@@ -1,5 +1,4 @@
 
-
 """
 @author: abhijeet vaidya
 @contact: abhijeetavaidya@gmail.com
@@ -141,6 +140,7 @@ class Facemash(object):
             if playerStastistics[temp]['played']!= 0: 
                 if playerStastistics[temp]['won'] == 0:
                     performance = round(playerStastistics[temp]['score']/(1+(playerStastistics[temp]['loss'])),0) # to avoid division by zero error
+                    ratings[temp] = performance
                 else:
                     performance = round(playerStastistics[temp]['score']/(1+(playerStastistics[temp]['loss']/playerStastistics[temp]['won'])),0)
                 ratings[temp] = performance # insert into dict
