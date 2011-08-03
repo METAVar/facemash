@@ -2,6 +2,6 @@
 @contact: abhijeetavaidya@gmail.com
 @license: www.opensource.org/licenses/mit-license.php 
 
-                              This is just simple implementation of the mark zuckerberg 'facemash' in python language, where player's are simulated to play based on the computer generated random activity.Each player has got four entity [won,lost,score,played]. The game play starts with one-player against another who ever wins/loose, there corresponding entity get updated,the expectedChance(Elo Rating system ) and k-factor determines the updated score of the player, Those who don't
-know what is Elo Rating System and k-factor check out: http://en.wikipedia.org/wiki/Elo_rating_system. Further for live implementation that i have done in php check out: http://facemash.99k.org (under construction).
+                              This is just simple implementation of the mark zuckerberg 'facemash' in python language, where player's are simulated to play based on the computer generated random activity.Each player has got four entity [won,lost,score,played]. The game play starts with one-player against another who ever wins/loose, there corresponding entity get updated based on  expectedChance(Elo Rating system ) and k-factor.
+                              Those who don't know what is Elo Rating System and k-factor really is please check out: http://en.wikipedia.org/wiki/Elo_rating_system. Further for live implementation of facemash that i have done in php check out: http://facemash.99k.org (under construction).
   
