@@ -1,0 +1,806 @@
+********************Game Tournament 1***************************
+The game was between players_2 and players_1 
+players_2 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+players_1 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+ players_1 has been choosen as winner
+winner updated score: 1616.0 
+looser updated score: 1584.0 
+
+********************Game Tournament 2***************************
+The game was between players_4 and players_1 
+players_4 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+players_1 statistics: 
+won: 1
+lost: 0
+Score: 1616.0
+
+ players_4 has been choosen as winner
+winner updated score: 1617.0 
+looser updated score: 1601.0 
+
+********************Game Tournament 3***************************
+The game was between players_3 and players_2 
+players_3 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+players_2 statistics: 
+won: 0
+lost: 1
+Score: 1584.0
+
+ players_2 has been choosen as winner
+winner updated score: 1601.0 
+looser updated score: 1585.0 
+
+********************Game Tournament 4***************************
+The game was between players_5 and players_6 
+players_5 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+players_6 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+ players_5 has been choosen as winner
+winner updated score: 1616.0 
+looser updated score: 1584.0 
+
+********************Game Tournament 5***************************
+The game was between players_3 and players_8 
+players_3 statistics: 
+won: 0
+lost: 1
+Score: 1585.0
+
+players_8 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+ players_8 has been choosen as winner
+winner updated score: 1615.0 
+looser updated score: 1568.0 
+
+********************Game Tournament 6***************************
+The game was between players_8 and players_1 
+players_8 statistics: 
+won: 1
+lost: 0
+Score: 1615.0
+
+players_1 statistics: 
+won: 1
+lost: 1
+Score: 1601.0
+
+ players_1 has been choosen as winner
+winner updated score: 1617.0 
+looser updated score: 1600.0 
+
+********************Game Tournament 7***************************
+The game was between players_7 and players_5 
+players_7 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+players_5 statistics: 
+won: 1
+lost: 0
+Score: 1616.0
+
+ players_5 has been choosen as winner
+winner updated score: 1631.0 
+looser updated score: 1583.0 
+
+********************Game Tournament 8***************************
+The game was between players_4 and players_3 
+players_4 statistics: 
+won: 1
+lost: 0
+Score: 1617.0
+
+players_3 statistics: 
+won: 0
+lost: 2
+Score: 1568.0
+
+ players_4 has been choosen as winner
+winner updated score: 1631.0 
+looser updated score: 1550.0 
+
+********************Game Tournament 9***************************
+The game was between players_4 and players_8 
+players_4 statistics: 
+won: 2
+lost: 0
+Score: 1631.0
+
+players_8 statistics: 
+won: 1
+lost: 1
+Score: 1600.0
+
+ players_4 has been choosen as winner
+winner updated score: 1645.0 
+looser updated score: 1583.0 
+
+********************Game Tournament 10***************************
+The game was between players_4 and players_3 
+players_4 statistics: 
+won: 3
+lost: 0
+Score: 1645.0
+
+players_3 statistics: 
+won: 0
+lost: 3
+Score: 1550.0
+
+ players_4 has been choosen as winner
+winner updated score: 1657.0 
+looser updated score: 1530.0 
+
+********************Game Tournament 11***************************
+The game was between players_5 and players_1 
+players_5 statistics: 
+won: 2
+lost: 0
+Score: 1631.0
+
+players_1 statistics: 
+won: 2
+lost: 1
+Score: 1617.0
+
+ players_5 has been choosen as winner
+winner updated score: 1647.0 
+looser updated score: 1601.0 
+
+********************Game Tournament 12***************************
+The game was between players_7 and players_4 
+players_7 statistics: 
+won: 0
+lost: 1
+Score: 1583.0
+
+players_4 statistics: 
+won: 4
+lost: 0
+Score: 1657.0
+
+ players_4 has been choosen as winner
+winner updated score: 1669.0 
+looser updated score: 1564.0 
+
+********************Game Tournament 13***************************
+The game was between players_1 and players_5 
+players_1 statistics: 
+won: 2
+lost: 2
+Score: 1601.0
+
+players_5 statistics: 
+won: 3
+lost: 0
+Score: 1647.0
+
+ players_5 has been choosen as winner
+winner updated score: 1661.0 
+looser updated score: 1583.0 
+
+********************Game Tournament 14***************************
+The game was between players_7 and players_1 
+players_7 statistics: 
+won: 0
+lost: 2
+Score: 1564.0
+
+players_1 statistics: 
+won: 2
+lost: 3
+Score: 1583.0
+
+ players_7 has been choosen as winner
+winner updated score: 1581.0 
+looser updated score: 1568.0 
+
+********************Game Tournament 15***************************
+The game was between players_3 and players_6 
+players_3 statistics: 
+won: 0
+lost: 4
+Score: 1530.0
+
+players_6 statistics: 
+won: 0
+lost: 1
+Score: 1584.0
+
+ players_3 has been choosen as winner
+winner updated score: 1548.0 
+looser updated score: 1570.0 
+
+********************Game Tournament 16***************************
+The game was between players_1 and players_6 
+players_1 statistics: 
+won: 2
+lost: 4
+Score: 1568.0
+
+players_6 statistics: 
+won: 0
+lost: 2
+Score: 1570.0
+
+ players_1 has been choosen as winner
+winner updated score: 1584.0 
+looser updated score: 1555.0 
+
+********************Game Tournament 17***************************
+The game was between players_6 and players_1 
+players_6 statistics: 
+won: 0
+lost: 3
+Score: 1555.0
+
+players_1 statistics: 
+won: 3
+lost: 4
+Score: 1584.0
+
+ players_1 has been choosen as winner
+winner updated score: 1598.0 
+looser updated score: 1537.0 
+
+********************Game Tournament 18***************************
+The game was between players_3 and players_4 
+players_3 statistics: 
+won: 1
+lost: 4
+Score: 1548.0
+
+players_4 statistics: 
+won: 5
+lost: 0
+Score: 1669.0
+
+ players_3 has been choosen as winner
+winner updated score: 1569.0 
+looser updated score: 1659.0 
+
+********************Game Tournament 19***************************
+The game was between players_5 and players_3 
+players_5 statistics: 
+won: 4
+lost: 0
+Score: 1661.0
+
+players_3 statistics: 
+won: 2
+lost: 4
+Score: 1569.0
+
+ players_3 has been choosen as winner
+winner updated score: 1589.0 
+looser updated score: 1649.0 
+
+********************Game Tournament 20***************************
+The game was between players_3 and players_9 
+players_3 statistics: 
+won: 3
+lost: 4
+Score: 1589.0
+
+players_9 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+ players_3 has been choosen as winner
+winner updated score: 1606.0 
+looser updated score: 1584.0 
+
+********************Game Tournament 21***************************
+The game was between players_7 and players_5 
+players_7 statistics: 
+won: 1
+lost: 2
+Score: 1581.0
+
+players_5 statistics: 
+won: 4
+lost: 1
+Score: 1649.0
+
+ players_7 has been choosen as winner
+winner updated score: 1600.0 
+looser updated score: 1636.0 
+
+********************Game Tournament 22***************************
+The game was between players_6 and players_1 
+players_6 statistics: 
+won: 0
+lost: 4
+Score: 1537.0
+
+players_1 statistics: 
+won: 4
+lost: 4
+Score: 1598.0
+
+ players_6 has been choosen as winner
+winner updated score: 1556.0 
+looser updated score: 1585.0 
+
+********************Game Tournament 23***************************
+The game was between players_2 and players_7 
+players_2 statistics: 
+won: 1
+lost: 1
+Score: 1601.0
+
+players_7 statistics: 
+won: 2
+lost: 2
+Score: 1600.0
+
+ players_7 has been choosen as winner
+winner updated score: 1616.0 
+looser updated score: 1585.0 
+
+********************Game Tournament 24***************************
+The game was between players_7 and players_9 
+players_7 statistics: 
+won: 3
+lost: 2
+Score: 1616.0
+
+players_9 statistics: 
+won: 0
+lost: 1
+Score: 1584.0
+
+ players_9 has been choosen as winner
+winner updated score: 1602.0 
+looser updated score: 1601.0 
+
+********************Game Tournament 25***************************
+The game was between players_4 and players_5 
+players_4 statistics: 
+won: 5
+lost: 1
+Score: 1659.0
+
+players_5 statistics: 
+won: 4
+lost: 2
+Score: 1636.0
+
+ players_5 has been choosen as winner
+winner updated score: 1653.0 
+looser updated score: 1644.0 
+
+********************Game Tournament 26***************************
+The game was between players_10 and players_4 
+players_10 statistics: 
+won: 0
+lost: 0
+Score: 1600.0
+
+players_4 statistics: 
+won: 5
+lost: 2
+Score: 1644.0
+
+ players_10 has been choosen as winner
+winner updated score: 1618.0 
+looser updated score: 1630.0 
+
+********************Game Tournament 27***************************
+The game was between players_7 and players_5 
+players_7 statistics: 
+won: 3
+lost: 3
+Score: 1601.0
+
+players_5 statistics: 
+won: 5
+lost: 2
+Score: 1653.0
+
+ players_5 has been choosen as winner
+winner updated score: 1666.0 
+looser updated score: 1583.0 
+
+********************Game Tournament 28***************************
+The game was between players_4 and players_3 
+players_4 statistics: 
+won: 5
+lost: 3
+Score: 1630.0
+
+players_3 statistics: 
+won: 4
+lost: 4
+Score: 1606.0
+
+ players_4 has been choosen as winner
+winner updated score: 1645.0 
+looser updated score: 1589.0 
+
+********************Game Tournament 29***************************
+The game was between players_2 and players_3 
+players_2 statistics: 
+won: 1
+lost: 2
+Score: 1585.0
+
+players_3 statistics: 
+won: 4
+lost: 5
+Score: 1589.0
+
+ players_3 has been choosen as winner
+winner updated score: 1605.0 
+looser updated score: 1569.0 
+
+********************Game Tournament 30***************************
+The game was between players_2 and players_1 
+players_2 statistics: 
+won: 1
+lost: 3
+Score: 1569.0
+
+players_1 statistics: 
+won: 4
+lost: 5
+Score: 1585.0
+
+ players_2 has been choosen as winner
+winner updated score: 1585.0 
+looser updated score: 1570.0 
+
+********************Game Tournament 31***************************
+The game was between players_2 and players_8 
+players_2 statistics: 
+won: 2
+lost: 3
+Score: 1585.0
+
+players_8 statistics: 
+won: 1
+lost: 2
+Score: 1583.0
+
+ players_8 has been choosen as winner
+winner updated score: 1599.0 
+looser updated score: 1569.0 
+
+********************Game Tournament 32***************************
+The game was between players_3 and players_8 
+players_3 statistics: 
+won: 5
+lost: 5
+Score: 1605.0
+
+players_8 statistics: 
+won: 2
+lost: 2
+Score: 1599.0
+
+ players_3 has been choosen as winner
+winner updated score: 1620.0 
+looser updated score: 1582.0 
+
+********************Game Tournament 33***************************
+The game was between players_8 and players_5 
+players_8 statistics: 
+won: 2
+lost: 3
+Score: 1582.0
+
+players_5 statistics: 
+won: 6
+lost: 2
+Score: 1666.0
+
+ players_8 has been choosen as winner
+winner updated score: 1602.0 
+looser updated score: 1654.0 
+
+********************Game Tournament 34***************************
+The game was between players_1 and players_2 
+players_1 statistics: 
+won: 4
+lost: 6
+Score: 1570.0
+
+players_2 statistics: 
+won: 2
+lost: 4
+Score: 1569.0
+
+ players_1 has been choosen as winner
+winner updated score: 1586.0 
+looser updated score: 1553.0 
+
+********************Game Tournament 35***************************
+The game was between players_1 and players_7 
+players_1 statistics: 
+won: 5
+lost: 6
+Score: 1586.0
+
+players_7 statistics: 
+won: 3
+lost: 4
+Score: 1583.0
+
+ players_7 has been choosen as winner
+winner updated score: 1599.0 
+looser updated score: 1570.0 
+
+********************Game Tournament 36***************************
+The game was between players_6 and players_3 
+players_6 statistics: 
+won: 1
+lost: 4
+Score: 1556.0
+
+players_3 statistics: 
+won: 6
+lost: 5
+Score: 1620.0
+
+ players_3 has been choosen as winner
+winner updated score: 1633.0 
+looser updated score: 1537.0 
+
+********************Game Tournament 37***************************
+The game was between players_4 and players_6 
+players_4 statistics: 
+won: 6
+lost: 3
+Score: 1645.0
+
+players_6 statistics: 
+won: 1
+lost: 5
+Score: 1537.0
+
+ players_6 has been choosen as winner
+winner updated score: 1558.0 
+looser updated score: 1634.0 
+
+********************Game Tournament 38***************************
+The game was between players_9 and players_1 
+players_9 statistics: 
+won: 1
+lost: 1
+Score: 1602.0
+
+players_1 statistics: 
+won: 5
+lost: 7
+Score: 1570.0
+
+ players_9 has been choosen as winner
+winner updated score: 1616.0 
+looser updated score: 1553.0 
+
+********************Game Tournament 39***************************
+The game was between players_8 and players_2 
+players_8 statistics: 
+won: 3
+lost: 3
+Score: 1602.0
+
+players_2 statistics: 
+won: 2
+lost: 5
+Score: 1553.0
+
+ players_8 has been choosen as winner
+winner updated score: 1616.0 
+looser updated score: 1535.0 
+
+********************Game Tournament 40***************************
+The game was between players_9 and players_2 
+players_9 statistics: 
+won: 2
+lost: 1
+Score: 1616.0
+
+players_2 statistics: 
+won: 2
+lost: 6
+Score: 1535.0
+
+ players_9 has been choosen as winner
+winner updated score: 1629.0 
+looser updated score: 1516.0 
+
+********************Game Tournament 41***************************
+The game was between players_6 and players_5 
+players_6 statistics: 
+won: 2
+lost: 5
+Score: 1558.0
+
+players_5 statistics: 
+won: 6
+lost: 3
+Score: 1654.0
+
+ players_6 has been choosen as winner
+winner updated score: 1578.0 
+looser updated score: 1643.0 
+
+********************Game Tournament 42***************************
+The game was between players_7 and players_6 
+players_7 statistics: 
+won: 4
+lost: 4
+Score: 1599.0
+
+players_6 statistics: 
+won: 3
+lost: 5
+Score: 1578.0
+
+ players_7 has been choosen as winner
+winner updated score: 1614.0 
+looser updated score: 1561.0 
+
+********************Game Tournament 43***************************
+The game was between players_3 and players_10 
+players_3 statistics: 
+won: 7
+lost: 5
+Score: 1633.0
+
+players_10 statistics: 
+won: 1
+lost: 0
+Score: 1618.0
+
+ players_10 has been choosen as winner
+winner updated score: 1635.0 
+looser updated score: 1618.0 
+
+********************Game Tournament 44***************************
+The game was between players_8 and players_10 
+players_8 statistics: 
+won: 4
+lost: 3
+Score: 1616.0
+
+players_10 statistics: 
+won: 2
+lost: 0
+Score: 1635.0
+
+ players_10 has been choosen as winner
+winner updated score: 1650.0 
+looser updated score: 1599.0 
+
+********************Game Tournament 45***************************
+The game was between players_4 and players_9 
+players_4 statistics: 
+won: 6
+lost: 4
+Score: 1634.0
+
+players_9 statistics: 
+won: 3
+lost: 1
+Score: 1629.0
+
+ players_9 has been choosen as winner
+winner updated score: 1645.0 
+looser updated score: 1618.0 
+
+********************Game Tournament 46***************************
+The game was between players_5 and players_10 
+players_5 statistics: 
+won: 6
+lost: 4
+Score: 1643.0
+
+players_10 statistics: 
+won: 3
+lost: 0
+Score: 1650.0
+
+ players_10 has been choosen as winner
+winner updated score: 1666.0 
+looser updated score: 1626.0 
+
+********************Game Tournament 47***************************
+The game was between players_5 and players_3 
+players_5 statistics: 
+won: 6
+lost: 5
+Score: 1626.0
+
+players_3 statistics: 
+won: 7
+lost: 6
+Score: 1618.0
+
+ players_5 has been choosen as winner
+winner updated score: 1642.0 
+looser updated score: 1602.0 
+
+********************Game Tournament 48***************************
+The game was between players_5 and players_2 
+players_5 statistics: 
+won: 7
+lost: 5
+Score: 1642.0
+
+players_2 statistics: 
+won: 2
+lost: 7
+Score: 1516.0
+
+ players_5 has been choosen as winner
+winner updated score: 1652.0 
+looser updated score: 1494.0 
+
+********************Game Tournament 49***************************
+The game was between players_3 and players_2 
+players_3 statistics: 
+won: 7
+lost: 7
+Score: 1602.0
+
+players_2 statistics: 
+won: 2
+lost: 8
+Score: 1494.0
+
+ players_2 has been choosen as winner
+winner updated score: 1515.0 
+looser updated score: 1591.0 
+
+********************Game Tournament 50***************************
+The game was between players_8 and players_2 
+players_8 statistics: 
+won: 4
+lost: 4
+Score: 1599.0
+
+players_2 statistics: 
+won: 3
+lost: 8
+Score: 1515.0
+
+ players_8 has been choosen as winner
+winner updated score: 1611.0 
+looser updated score: 1495.0 
+
+Top 5 rated players:
+No 1: position is players_5 with overall performance: 1652.0   
+No 2: position is players_9 with overall performance: 1645.0   
+No 3: position is players_4 with overall performance: 1618.0   
+No 4: position is players_7 with overall performance: 1614.0   
+No 5: position is players_8 with overall performance: 1611.0   
