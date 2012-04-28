@@ -2,18 +2,25 @@
 @author: abhijeet vaidya
 @contact: abhijeetavaidya@gmail.com
 @license: MIT license
+
 """
+
+#FIXME determining k-factor
+
 import math
 import random
 from operator import itemgetter
+MAX_GAME = 50
+TOP_RATED = 6
 
 class Facemash(object):
     #define attributes
-    
-    k_factor = 0
-    random_player_1 = 0
-    random_player_2 = 0
-    expected = 0
+    def __init__(self): #constructor
+        
+        self.k_factor = 0
+        self.random_player_1 = 0
+        self.random_player_2 = 0
+        self.expected = 0
     
     def getExpectedChances(self,scoreOfPlayer2,scoreOfPlayer1):
         
@@ -60,7 +67,7 @@ class Facemash(object):
         
         # creating 10 players
         for init in range(1,11,1):
-            play = "players_"+str(init)
+            play = "players_%s"%(init) 
             players[init] = play
         
         # see which player has been selected
@@ -68,12 +75,12 @@ class Facemash(object):
         # for a specific player to create won ,loss and score with default:1600
         for init1 in range(1,11,1):
             stat = {'won':0,'loss':0,'score':1600,'played':0}
-            play = "players_"+str(init1)
+            play = "players_%s"%(init1)
             playerStastistics[play] = stat       
         
         #game method
         game = 0
-        while game!=10:
+        while game!=MAX_GAME:
             self.testForEquality()
             player1 = self.random_player_1
             player2 = self.random_player_2
@@ -90,20 +97,22 @@ class Facemash(object):
             
             win = players[winner]
             loose = players[losser]
-            print "********************Game Tournament"+" "+str(game+1)+"***************************"
-            print "The game was between "+str(players[player1])+" and "+str(players[player2])
+            print "********************Game Tournament %s***************************"%(game+1)
+            print "The game was between %s and %s "%((players[player1]),(players[player2]))
+            
             first = players[player1]
             second = players[player2]
-            print  str(players[player1])+" "+" statistics: "
-            print "won:"+str(playerStastistics[first]['won'])
-            print "lost:"+str(playerStastistics[first]['loss'])
-            print "Score:"+str(round(playerStastistics[first]['score'],0))
-            print " "
-            print str(players[player2])+" "+" statistics: "
-            print "won:"+str(playerStastistics[second]['won'])
-            print "lost:"+str(playerStastistics[second]['loss'])
-            print "Score:"+str(round(playerStastistics[second]['score'],0))
-            print " "
+            
+            print  "%s statistics: "%(players[player1])
+            print "won: %s"%(playerStastistics[first]['won'])
+            print "lost: %s"%(playerStastistics[first]['loss'])
+            print "Score: %s"%(round(playerStastistics[first]['score'],0))
+            print ''
+            print "%s statistics: "%(players[player2])
+            print "won: %s"%(playerStastistics[second]['won'])
+            print "lost: %s"%(playerStastistics[second]['loss'])
+            print "Score: %s"%(round(playerStastistics[second]['score'],0))
+            print ''
             
             
             
@@ -112,7 +121,7 @@ class Facemash(object):
             # update game played
             playerStastistics[win]['played']+=1
             playerStastistics[loose]['played']+=1
-            # determine the k-factor
+            # determine the k-factor (FIXME)
             self.k_factor = self.determineKfactor(playerStastistics[win]['won'])
             # get expected chance
             self.expected =self.getExpectedChances(playerStastistics[loose]['score'], playerStastistics[win]['score'])
@@ -121,12 +130,12 @@ class Facemash(object):
             # get looser score update
             playerStastistics[loose]['score'] = self.getLoserScore(playerStastistics[loose]['score'])
             
-            print win+" "+"has been choosen as winner"
-            print "winner updated score: "+ str(round(playerStastistics[win]['score'],0))
-            print "looser updated score: "+ str(round(playerStastistics[loose]['score'],0))
+            print " %s has been choosen as winner"%(win)
+            print "winner updated score: %s "%(round(playerStastistics[win]['score'],0))
+            print "looser updated score: %s "%(round(playerStastistics[loose]['score'],0))
             game+=1
             
-            print "\n"
+            print ''
         
         # print top rated players:
         # we need simple mathematics to do this
@@ -155,10 +164,10 @@ class Facemash(object):
         # now iterate all the values
         temp1 = 1
         print "Top 5 rated players:"
-        while temp1!=6:
+        while temp1!=TOP_RATED:
             j = 0 # name of the player
             k = 1 # performace
-            print "No"+" "+str(temp1)+": position is "+" "+str(topRating[temp1][j])+" "+"with overall performance:"+" "+str(topRating[temp1][k])
+            print "No %s: position is %s with overall performance: %s   "%(temp1,topRating[temp1][j],topRating[temp1][k])
             temp1+=1
 
 #main method
