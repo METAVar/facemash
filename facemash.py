@@ -196,8 +196,8 @@ class Facemash(object):
         print "Top 5 rated players:"
         
         while iniGameRate!=TOP_RATED:
-            nameOfThePlyr = 0 # name of the player
-            performance      = 1 # performace
+            nameOfThePlyr 	= 0 # name of the player
+            performance         = 1 # performace
             print " No %s: position is  %s  with  overall  performance:  %s   "%(iniGameRate,topRating[iniGameRate][nameOfThePlyr],topRating[iniGameRate][performance])
             iniGameRate+=1
 
@@ -208,3 +208,10 @@ if __name__ == '__main__':
     start = Facemash() #creating instance
     start.calculate()
     
+
+
+
+
+
+
+
