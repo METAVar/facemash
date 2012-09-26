@@ -1,6 +1,6 @@
 """
 @author: abhijeet vaidya
-@contact: abhijeetavaidya@gmail.com
+@contact: abhijeetavaidya [[ at ]] gmail [[ dot ]] com
 @license: MIT license
 
 """
